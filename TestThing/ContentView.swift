@@ -14,7 +14,7 @@ struct ContentView: View {
                 .padding()
 
             Spacer()
-        }.background(Color.purple)
+        }.background(Color.pink)
     }
 }
 
