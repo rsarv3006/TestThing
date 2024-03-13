@@ -1,0 +1,11 @@
+name: TestThing
+options:
+  bundleIdPrefix: rjs.app.dev.TestThing
+targets:
+  TestThing:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.2"
+    sources: [TestThing]
+    info:
+      path: TestThing/Info.plist
